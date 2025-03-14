@@ -12,6 +12,7 @@
 **Setup & Run**
 - Clone: git clone https://github.com/YourUsername/ThreeCardPoker.git
 - Open in IDE; confirm JavaFX libraries and Java 11+ are configured.
+- Command to run: *mvn compile exec:java*
 - Run the JavaFXTemplate class – welcomes you to the bet screen.
 - CSS Themes: Go to Options -> New Look to explore different color schemes.
 
